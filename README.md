@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks
+# Frontend Mentor - Huddle landing page with alternating feature blocks https://omololacrea8.github.io/Huddle-landing/
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
